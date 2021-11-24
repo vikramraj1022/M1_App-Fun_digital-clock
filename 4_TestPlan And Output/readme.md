@@ -1,10 +1,13 @@
-      In this project the implementation of digital clock using c language.In this project after running the code output has to be verified by entering 
-time in hours and minutes in terminal unit.After entering the time we have to enter that AM or PM. Then time will be displayed in hours:minutes AM or PM.
+      In this project the implementation of digital clock using c language.In this project after running the code 
+      output has to be verified by entering time in hours and minutes in terminal unit.After entering the time we 
+      have to enter that AM or PM. Then time will be displayed in hours:minutes AM or PM.
 
 Code for Digital Clock:
 
-#include<stdio.h> #include<conio.h> 
-#include<string.h> #include<windows.h>
+#include<stdio.h> 
+#include<conio.h> 
+#include<string.h> 
+#include<windows.h>
 
 int main() {
 
