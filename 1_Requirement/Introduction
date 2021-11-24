@@ -2,7 +2,7 @@ INTRODUCTION:
             This project gives the overview that how to create a digital clock using C language. Actually this project is for beginners, 
             who just learn to code and want to implement it in actual application. So this system is basically for some practical purpose. 
             There is a small program and we can code it just in 15 minutes. Declare three variables for an hour, minutes and for AM or PM.
-INTRODUCTION:
+	    
            A digital clock is a type of clock that displays the time digitally (i.e. in numerals or other symbols), as opposed to an analogue clock.
 Digital clocks are often associated with electronic drives, but the "digital" description refers only to the display, not to the drive mechanism. 
 (Both analogue and digital clocks can be driven either mechanically or electronically, but "clockwork" mechanisms with digital displays are rare).
