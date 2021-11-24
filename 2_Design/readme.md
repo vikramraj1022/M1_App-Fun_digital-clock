@@ -3,4 +3,7 @@
 
                                               Flow chart:
  ![image](https://user-images.githubusercontent.com/94282799/143232731-9f145d47-8246-472c-a24c-64d4cd8526af.png)
+ 
+ ![Screenshot (51)](https://user-images.githubusercontent.com/94282799/143233692-e164ae2e-6aa1-477c-bf77-22190484b7fc.jpg)
+
 
