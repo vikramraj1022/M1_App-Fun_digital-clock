@@ -2,3 +2,136 @@ INTRODUCTION:
             This project gives the overview that how to create a digital clock using C language. Actually this project is for beginners, 
             who just learn to code and want to implement it in actual application. So this system is basically for some practical purpose. 
             There is a small program and we can code it just in 15 minutes. Declare three variables for an hour, minutes and for AM or PM.
+INTRODUCTION:
+           A digital clock is a type of clock that displays the time digitally (i.e. in numerals or other symbols), as opposed to an analogue clock.
+Digital clocks are often associated with electronic drives, but the "digital" description refers only to the display, not to the drive mechanism. 
+(Both analogue and digital clocks can be driven either mechanically or electronically, but "clockwork" mechanisms with digital displays are rare).
+
+CONSTRUCTION:
+         Digital clocks typically use the 50 or 60 hertz oscillation of AC power or a 32,768 hertz crystal oscillator as in a quartz clock to keep time. 
+Most digital clocks display the hour of the day in 24-hour format; in the United States and a few other countries, a commonly used hour sequence 
+option is 12-hour format (with some indication of AM or PM). Some timepieces, such as many digital watches, can be switched between 12-hour 
+and 24-hour modes. Emulations of analog-style faces often use an LCD screen, and these are also sometimes described as "digital".
+
+DISPLAY:
+	To represent the time, most digital clocks use a seven-segment LED, VFD, or LCD for each of four digits. They generally also include 
+other elements to indicate whether the time is AM or PM, whether or not an alarm is set, and so on. Older digital clocks used numbers painted 
+on wheels, or split-flap display.
+
+USES:
+	Because digital clocks can be very small and inexpensive devices that enhance the popularity of product designs, they are often incorporated 
+into all kinds of devices such as cars, radios, televisions, microwave ovens, standard ovens, computers and cell phones. Sometimes their usefulness is 
+disputed: a common complaint is that when time has to be set to Daylight Saving Time, many household clocks have to be readjusted. The incorporation 
+of automatic synchronization by a radio time signal is reducing this problem (see Radio clock).
+
+REFERENCE:
+
+1.  "DEPATISnet | DEPATISnet-Startseite". depatisnet.dpma.de. Retrieved 2021-11-08.
+
+2.  "Home page". JosefPallweber.com. Archived from the original on 2015-10-01. Retrieved 2015-11-07.
+
+3. Churm, Thomas M. (November 5, 2013). "A Short History of Digital Clocks and Watches". Alarm Clock Blog. Archived from the original on March 1, 2016. Retrieved 2016-02-28.
+
+4. Imperial Patent Office (October 27, 1890). "Patent No. 54093" (PDF). German Patent and Trademark Office (in German). Retrieved 2015-11-07.
+
+5. "Is digital more precise?". The German Clock Museum. April 2015. Archived from the original on 2015-09-23. Retrieved 2015-11-07.
+
+6. US2768332A, Protzmann, Donald E.; Phaneuf, Edgar A. & Doyle, Malcolm G., "Timing device", issued 1956-10-23
+
+7. "The History of the Digital Watch". h2g2. April 30, 2003. Archived from the original on November 6, 2015. Retrieved 2015-11-07.
+
+8.  "Radio Controlled LED Alarm Clock Instruction Manual — SM2442" (PDF). Zeon Ltd. Archived from the original (DOC) on 2016-03-03. Retrieved 2015-11-07.
+
+COST, FEATURES and TIMELINES:
+	
+COST - Minimum price is from Rupee 700 to maximum 20000.
+
+FEATURES -
+Power source: Digital clocks are powered by both electric power and batteries. Most of the clocks use batteries as back up power.
+
+Display: These clocks use LED or LCD displays to show the time. Some of the clocks have additional display features which include 
+               temperature and weather forecast. One of the greatest advantages of using digital clocks is its illuminating feature. Time is 
+               illuminated clearly which makes it easier to read at night. Red, green and blue colored lights are used to display the time on 
+               the clocks. It is usually displayed in a liner fashion.
+
+Internal components: The digital clocks are electronic and therefore do not include any type of moving parts like the analog clocks. 
+	                    The control panels of these clocks are powered by electricity. It is therefore difficult to repair the digital clocks.
+
+Materials: Different materials are used to manufacture the digital clocks which include fiber, plastic and even glass. Most of the digital 
+	wall clocks have a number of additional features which include display of temperature, humidity, weather and so forth. There 
+	are a number of websites that sell a variety of digital clocks with hologram stickers. Digital clocks of various sizes and prices 
+	are also available in abundance. Large clocks of different shapes and designs are used to enhance the decor of homes and offices these days.
+
+
+SWOT ANALYSIS:
+1. Strength
+	1. Design of the clocky is very unique as compared to other alarm clocks. It has been outfitted with wheels which cannot be found in any other alarm clocks.
+	2. Every alarm clock has a function which is all the same. But clocky has a function which is different from other clocks. It allows itself to hide in order to force 
+	the owner to wake and find it.
+	3. Technology used in clocky was new to each and every person. Even to those clock companies which were clocky's competitor.
+
+2. Weakness
+	1. Price of clock is high as compared to other docks. Nobody would waste More for a clock which they can get at just less price.
+	2. Quality of clock was a big concern. Clock was made of plastic or chrome body which can be easily broken.
+
+3. Opportunities
+	1. As Elie Ofek said that people had intimate relationship with their clock, but they generally hate it. Because they put the snooze button on to get extra sleep. 
+	2. Clock managed to change this behaviour.
+	3. Clock was altogether a new product which was never been made before. So company had an opportunity to attract consumers to buy clock.
+
+4. Threat
+	1. Clock had many competitors in the market, which made it a threat.
+	2. High price of clock was a big problem as people wouldn't buy an alarm clock that would cost.
+
+SOLUTIONS:
+1. Price
+	There are different pricing methods through which price of a product is fixed. They lowered it after they saw fall in sales. This problem would have been 
+	easily solved.
+
+2. Quality
+	Clock is made of platic or chrome material. These materials can be easily broken on impact or shock. A new material at cheap price should have been used 
+	to manufacture clock. This would have also reduced the cost of clock.
+
+3. Market
+	Clock was first introduced through small stored & speciality boutiques, which didn't do enough publicity of the product. As people with high income source 
+	mainly go to mega stores which are mainly in malls would have done easy publicity to major population.
+
+4. Flattened Sales
+	The sale of clock was flattened because of its high price. If the price was reduced in the first year itself, then the sales would have increased. Introducing new
+	product line would have also increased sales.
+
+5. Revenue
+	Introducing new product line could also increase the company's revenue.
+
+4 W's AND 1H's:
+WHO -
+	Every type of people can use this clock.
+	
+WHAT -
+	A digital clock is an alternative to a traditional analogue clock. This type of clock shows numbers to display the time in a digital format, such as on a watch, phone 
+	or an alarm clock.
+
+WHEN -
+	In every moment people can use the clock. 
+
+WHERE -
+	Because digital clocks can be very small and inexpensive devices that enhance the popularity of product designs, they are often incorporated into all kinds of devices 
+	such as cars, radios, televisions, microwave ovens, standard ovens, computers and cell phones.
+
+HOW -
+	Digital clocks typically use the 50 or 60 hertz oscillation of AC power or a 32,768 hertz crystal oscillator as in a quartz clock to keep time. ... Emulations of analog-style 
+	faces often use an LCD screen, and these are also sometimes described as "digital".
+
+HIGH LEVEL RREQUIREMENTS:
+	Very High Speed IC Hardware Description Language (VHDL) is one of the modern languages used in designing digital circuits. It can be used in programming 
+	Field Programmable gate arrays (FPGAs) and Application Specific Integrated Circuits (ASICs).This paper presents the design of a digital clock using Very High 
+	Speed Hardware Description Language in a Xilinx ISE 10.1 environment. The designed clock has the functionalities time, alarm, stopwatch and date. The clock 
+	format can be changed from 24 hours to 12 hours and vice versa. After the design, testing was done on a Spartan-3-FPGA and all units were found to be performing 
+	the desired functions.
+
+LOW LEVEL RREQUIREMENTS:
+	Low power chip requirement in the VLSI industry is main considerable field due to the reduction of chip dimension day by day and environmental factors. In this 
+	paper various low power techniques at Gate level, Architecture level and different tradeoffs between different clock distribution schemes like as single driver clock 
+	scheme and distributed buffers clock scheme are reviewed. Here it is also tried to showing various effects of particular clock distribution scheme such as clock skew, 
+	clock jitter etc. 
+	
