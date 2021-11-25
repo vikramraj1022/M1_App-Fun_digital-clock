@@ -11,6 +11,7 @@ Testcase for Digital clock(EXTERNAL VIEW)
 5. check the length of the strap
 
 FOR FUNCTIONAL:
+
 1.after 60 sec ,is it inceasing minute value 1.
 
 2.after 60 min ,is it inceasing hrs value 1.
